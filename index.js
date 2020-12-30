@@ -102,7 +102,7 @@ async function displayWeather() {
     } else if (getUVIndex >= 6 && getUVIndex <= 7.99) {
         uvNumber.addClass("high");
     } else if (getUVIndex >= 8 && getUVIndex <= 10.99) {
-        uvNumber.addClass("vhigh");
+        uvNumber.addClass("veryhigh");
     } else {
         uvNumber.addClass("extreme");
     }
