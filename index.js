@@ -1,4 +1,6 @@
 // Global variable 
+
+// worked with menuka and luna
 var List = [];
 var cityname;
 // local storage 
